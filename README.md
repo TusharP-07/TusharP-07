@@ -1,20 +1,14 @@
 Hi there 👋
 
-I'm a Computer Engineering student and MERN Stack Developer passionate about building modern web applications. I enjoy learning new technologies, contributing to projects, and continuously improving my software engineering skills. My goal is to become a Software Engineer and create impactful solutions through code.
+I'm Tushar, a Computer Engineering student and passionate MERN Stack Developer.
 
-🎓 Computer Engineering Student
+* 🔭 Building full-stack web applications with the MERN Stack
+* 🎯 Goal: Become a Software Engineer
+* 🌱 Currently learning System Design, DSA, and Cloud Computing
+* 👯 Looking to collaborate on Open Source and Full-Stack Projects
+* 💬 Ask me about React, Node.js, Express.js, MongoDB, and JavaScript
+* ⚡ Fun fact: I love turning ideas into products through code
 
-💻 MERN Stack Developer
-
-🚀 Aspiring Software Engineer
-
-👯 Open to collaborating on Open Source and Full-Stack Projects
-
-🌱 Currently learning System Design, DSA, and Cloud Technologies
-
-💬 Ask me about React, Node.js, Express.js, MongoDB, JavaScript, and Web Development
-
-⚡ Fun fact: I love building full-stack applications that solve real-world problems.
 
 ## 🌐 Socials:
 [[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tusharpawar3339) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Tushar Pawar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tusharpawar1411@gmail.com) 
